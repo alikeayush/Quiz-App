@@ -1,38 +1,38 @@
 const questions = [
     {
-        question: "When will I  Get an Internship?",
+        question: ""Which of the following keywords is used to define a variable in Javascript?",
         answers:[
-            {text:"Tomorrow", correct:false},
-            {text:"Will See", correct:true},
-            {text:"In a Month", correct:false},
-            {text:"Never", correct:false},
+            {text:"Let", correct:false},
+            {text:"Var", correct:false},
+            {text:"Both A And B", correct:true},
+            {text:"None", correct:false},
         ]
       },
     {
-        question: "When will I  Get an Internship?",
+        question: "What does the term DNS stand for?",
         answers:[
-            {text:"Tomorrow", correct:false},
-            {text:"Will See", correct:true},
-            {text:"In a Month", correct:false},
-            {text:"Never", correct:false},
+            {text:"Data Network Service", correct:false},
+            {text:"Domain Name System", correct:true},
+            {text:"Digital Naming Server", correct:false},
+            {text:"Dynamic Network Setup", correct:false},
         ]
     },
     {
-        question: "When will I  Get an Internship?",
+        question: "Which programming language is known for its use in building dynamic web pages?",
         answers:[
-            {text:"Tomorrow", correct:false},
-            {text:"Will See", correct:true},
-            {text:"In a Month", correct:false},
-            {text:"Never", correct:false},
+            {text:"C++", correct:false},
+            {text:"Javascript", correct:true},
+            {text:"Python", correct:false},
+            {text:"Swift", correct:false},
         ]
     },
     {
-        question: "When will I  Get an Internship?",
+        question: "Which of the following is a NoSQL database?",
         answers:[
-            {text:"Tomorrow", correct:false},
-            {text:"Will See", correct:true},
-            {text:"In a Month", correct:false},
-            {text:"Never", correct:false},
+            {text:"PostgreSQL", correct:false},
+            {text:"MongoDB", correct:true},
+            {text:"SQLite", correct:false},
+            {text:"MySQL", correct:false},
         ]
     }
 ];
